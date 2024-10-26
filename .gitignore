@@ -1,1 +1,7 @@
-/kstesting/game
+/kstesting/
+/launcher/
+/renpy/
+/t/
+/tmp/
+log.txt
+renpy/common/
